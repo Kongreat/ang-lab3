@@ -1,0 +1,15 @@
+.result{
+    width: 0px;
+    height: 0px;
+    border: solid 1px red;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 50px;
+}
+
+input{
+    margin-top: 20px;
+}
+
